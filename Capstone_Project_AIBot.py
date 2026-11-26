@@ -68,7 +68,7 @@ def transcribe_audio(audio_bytes):
 
     with tempfile.NamedTemporaryFile(
         delete=False,
-        suffix=".wav"
+        suffix=".webm"
     ) as f:
 
         f.write(audio_bytes)
