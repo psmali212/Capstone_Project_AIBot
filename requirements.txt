@@ -1,0 +1,11 @@
+streamlit
+langchain
+langchain-core
+langchain-groq
+groq
+streamlit-mic-recorder
+faster-whisper
+gtts
+pydub
+av
+numpy
